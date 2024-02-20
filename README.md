@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biogabriel7
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning Motif Discovery and Transcription Factor Binding Site Analysis
+- 🌱 I’m currently learning
 - 📫 How to reach me - gabriel_duartemartin@dcfi.harvard.edu
 - ⚡ Fun fact: ...
 
