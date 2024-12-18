@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biogabriel7
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning
-- 📫 How to reach me - gabriel_duartemartin@dcfi.harvard.edu
+- 🌱 I’m currently working on deep learning / scRNA-seq data
+- 📫 How to reach me - gabriel_duarte@osumc.edu
 - ⚡ Fun fact: ...
 
 <!---
