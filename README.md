@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel! 👋
 
-I'm a bioinformatician and computational biologist at The Ohio State University with a passion for developing robust software solutions for complex biological problems. My work focuses on creating reproducible pipelines, machine learning models, and data visualization tools that advance research in neurodegenerative diseases.
+I'm a bioinformatician and computational biologist at The Ohio State University
 
 ## 👯 Collaborations
 
