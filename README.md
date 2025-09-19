@@ -2,7 +2,7 @@
 
 I'm a bioinformatician and computational biologist at The Ohio State University
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogabriel7"/>
 
 ## 📫 How to Reach Me
 
