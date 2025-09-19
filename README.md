@@ -1,8 +1,8 @@
 # Hi there, I'm Gabriel! 👋
 
-I'm a bioinformatician and computational biologist at The Ohio State University
+Building Volantis
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogabriel7"/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=biogabriel7)](https://github.com/biogabriel7/github-readme-stats)
 
 ## 📫 How to Reach Me
 
