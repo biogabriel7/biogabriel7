@@ -2,14 +2,7 @@
 
 I'm a bioinformatician and computational biologist at The Ohio State University
 
-## 👯 Collaborations
-
-I'm always open to collaborating on exciting projects related to bioinformatics, computational biology, and machine learning in biomedical research. I'm particularly interested in:
-
-* Developing open-source bioinformatics tools
-* Applying deep learning to complex biological problems
-* Creating reproducible analysis pipelines for genomics data
-* Exploring novel approaches to drug discovery and repurposing
+(https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878)
 
 ## 📫 How to Reach Me
 
